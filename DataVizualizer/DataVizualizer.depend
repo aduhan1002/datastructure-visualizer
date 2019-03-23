@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1551899746 source:d:\college\codeblocks\test\avltree.cpp
+	"avltree.h"
+
+1551899956 d:\college\codeblocks\test\avltree.h
+	<iostream>
+
+1551900457 source:d:\college\codeblocks\test\vizualizer.cpp
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	"avltree.h"
+
+1552293521 source:d:\college\codeblocks\sem4 project\datavizualizer\avltree.cpp
+	"avltree.h"
+	<math.h>
+
+1551901154 d:\college\codeblocks\sem4 project\datavizualizer\avltree.h
+	<iostream>
+
+1552294979 source:d:\college\codeblocks\sem4 project\datavizualizer\vizualizer.cpp
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	"avltree.h"
+
