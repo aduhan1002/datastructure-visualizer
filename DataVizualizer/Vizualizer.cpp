@@ -1,3 +1,4 @@
+//Header File
 #include <graphics.h>
 #include<stdio.h>
 #include<conio.h>
@@ -17,7 +18,7 @@ struct dataStructure
 }dataStructures[noOfDS];
 
 float maxX,maxY;
-
+//Arrow that is shown on each node
 void printArrow(int x, int y,int width,int color)
 {
     setcolor(color);
